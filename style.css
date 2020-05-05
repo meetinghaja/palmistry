@@ -725,3 +725,7 @@ input:checked + label > .knob > i:before {
 .ad-banner {
     max-width: 320px;
 }
+.mt-1{
+        color: #fd7e14;
+    text-align: center;
+}
