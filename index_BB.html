@@ -67,7 +67,7 @@
                     </a>
                 </li>
                 <li class="nav-item active" onclick="gtag('event', '손금 유튜브', {'event_category': '손금 유튜브','event_label': '상단 메뉴'});">
-                    <a class="nav-link" id="yotube-top-link" href="https://www.youtube.com/watch?v=_1fvEKJwVJ4">손금 보는법 유튜브</a>
+
                 </li>
             </ul>
         </div>
@@ -143,11 +143,19 @@
          data-ad-width   = "320" 
          data-ad-height  = "100"></ins> 
     <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
-    <ins class="kakao_ad_area" style="display:none;" 
- data-ad-unit    = "DAN-1ieyait3493dx" 
- data-ad-width   = "320" 
- data-ad-height  = "100"></ins> 
-<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+<div id='caulyDisplay'>
+	<script src='//image.cauly.co.kr/websdk/common/lasted/ads.min.js'></script>
+	<script>
+      var cauly_ads = new CaulyAds({
+        app_code:U2edOXYE,
+        placement:1,
+        displayid:'caulyDisplay',
+        passback:function(){},
+        success:function(){}
+      });
+      cauly_ads.showPopup();
+   </script>
+</div> 
         <h4 class="mt-1">나도 만들어보는 어플!</h4>
     </section>
     <div class="container pt-3">
@@ -170,11 +178,11 @@
                     </button>
                 </div>
                 <div class="modal-body d-flex justify-content-center">
-                    <ins class="kakao_ad_area" style="display:none;" 
- data-ad-unit    = "DAN-sopptgoc8i1t" 
- data-ad-width   = "320" 
- data-ad-height  = "100"></ins> 
-<script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
+              <ins class="kakao_ad_area" style="display:none;" 
+         data-ad-unit    = "DAN-1ieyait3493dx" 
+         data-ad-width   = "320" 
+         data-ad-height  = "100"></ins> 
+    <script type="text/javascript" src="//t1.daumcdn.net/kas/static/ba.min.js" async></script>
                 </div>
                 <div class="modal-footer d-flex justify-content-center">
                     <button type="button p-2" class="try-again-btn" onclick="gaReload2();">
