@@ -1,1 +1,48 @@
-madsfeasdf.a.ea.sd.f
+<html>
+     <head>
+     <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>\
+     </head>
+<body>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- mweb -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9148211617569979"
+     data-ad-slot="6439114797"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+     
+     <br><br><br><br><br><br><br>
+     
+     test
+     <br><br><br><br><br>
+     
+     <amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-9148211617569979"
+     data-ad-slot="6439114797"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+     
+     <br><br><br><br><br><br><br>
+     
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 손금보기 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-9148211617569979"
+     data-ad-slot="6139731895"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+     
+     
+</body>
+</html>
